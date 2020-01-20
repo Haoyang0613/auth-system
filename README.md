@@ -1,2 +1,2 @@
 A simple authentication system.
-Personal website: http://thecornerseat.com
+Personal website: http://projectquark.com
